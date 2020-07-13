@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-13T19:56:41.407Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="RgfaHbXqUb8UUMPcVWak" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-13T19:59:11.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="XHJt07ITCe0HgmPvpr-u" version="13.4.2" type="github">
   <diagram id="PHeAlPN8ln_Q5tOjoC8O" name="Page-1">
     <mxGraphModel dx="1826" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -377,7 +377,7 @@
         <mxCell id="oY6sFZiqQfdeHMoj16-Y-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#333333;" parent="1" source="oY6sFZiqQfdeHMoj16-Y-36" target="oY6sFZiqQfdeHMoj16-Y-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oY6sFZiqQfdeHMoj16-Y-36" value="Terminales de almacenamiento" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="oY6sFZiqQfdeHMoj16-Y-36" value="Terminales de almacenamiento" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oY6sFZiqQfdeHMoj16-Y-38" value="Terrestres" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
@@ -429,6 +429,12 @@
         </mxCell>
         <mxCell id="oY6sFZiqQfdeHMoj16-Y-60" value="Importaciones" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1011" y="501" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w_Hq7JJno2KRJrkTULDM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="404.5" width="275" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="w_Hq7JJno2KRJrkTULDM-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" width="330" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
